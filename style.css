@@ -14,7 +14,7 @@
   height: 100px;
   width: 100px;
   border: solid 2px brown;
-  /* border-radius: 100px; */
+  border-radius: 100px; 
   font-weight: bold;
   color: rgb(147, 224, 221);
 }
